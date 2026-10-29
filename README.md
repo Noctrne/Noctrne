@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Who's there? 👋
+knock-knock! it's me who passionate to try anything
+- 🌱 I'm currently learning ... hmm
+  
 <!--
 **Noctrne/Noctrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
