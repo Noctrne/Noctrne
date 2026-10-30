@@ -1,5 +1,5 @@
-# Who's there? 👋
-knock-knock! it's me who passionate to try anything
+# Hi! 👋
+おはよう | こんにちは | こんばんは
 - 🌱 I'm currently learning ... hmm
   
 <!--
