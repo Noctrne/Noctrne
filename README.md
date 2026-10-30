@@ -1,5 +1,8 @@
 # Hi! 👋
 おはよう | こんにちは | こんばんは
+
+안녕
+
 - 🌱 I'm currently learning ... hmm
   
 <!--
